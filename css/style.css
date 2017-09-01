@@ -1,0 +1,25 @@
+body{
+	background: #34495e;
+}
+input{
+	width: 100% !important;
+	font-size: 20px !important;
+}
+
+.buttons{
+	border: 1px solid white !important;
+	background: #bdc3c7;
+	font-size: 30px;
+}
+.buttons:hover{
+	cursor: pointer;
+	background: black;
+	color: white;
+}
+.calculator{
+	background: white;
+}
+p{
+	font-size: 20px;
+	text-align: right;
+}
